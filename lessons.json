@@ -12547,7 +12547,7 @@
           "At both poles"
         ],
         "correct": 1,
-        "explain": "Only in the Southern Hemisphere. Every wild penguin species lives south of the equator. None live naturally in the Arctic, where polar bears roam."
+        "explain": "Penguins are essentially a Southern Hemisphere group. The one quirk is the Galapagos penguin, which lives right at the equator and just slips across into the Northern Hemisphere. But none live anywhere near the Arctic, where polar bears roam."
       },
       {
         "id": "teach1",
@@ -12555,7 +12555,7 @@
         "tag": "DRAWING",
         "phase": "IDEA 01",
         "title": "Penguins are Southern Hemisphere birds",
-        "body": "All living penguin species are found in the Southern Hemisphere. Most live around Antarctica and the cold southern oceans, but the range stretches up the coasts of South America, southern Africa, Australia and New Zealand. One species lives near the equator at the Galapagos Islands. Even that one stays just south of the line, kept cool by a cold ocean current.",
+        "body": "Almost every living penguin species is found in the Southern Hemisphere. Most live around Antarctica and the cold southern oceans, but the range stretches up the coasts of South America, southern Africa, Australia and New Zealand. The one exception lives at the Galapagos Islands, right on the equator: it is the only penguin whose range crosses slightly into the Northern Hemisphere, kept cool there by a cold ocean current. Even so, it stays nowhere near the Arctic.",
         "diagram": null,
         "reveal": null
       },
@@ -12599,21 +12599,21 @@
         "id": "recall",
         "type": "choice",
         "tag": "SPACED RECALL",
-        "prompt": "Earlier: which hemisphere holds all the wild penguins?",
+        "prompt": "Earlier: which hemisphere holds essentially all wild penguins?",
         "options": [
           "The Northern Hemisphere",
           "The Southern Hemisphere"
         ],
         "correct": 1,
-        "explain": "The Southern Hemisphere. Every wild penguin lives south of the equator, which is exactly why they never share ice with Arctic polar bears."
+        "explain": "The Southern Hemisphere. That is home to essentially every penguin (only the Galapagos penguin nips across the equator), and none live near the Arctic, so they never share ice with polar bears."
       },
       {
         "id": "done",
         "type": "done",
         "title": "Opposite ends.",
         "recap": [
-          "All wild penguins live in the Southern Hemisphere",
-          "Their range tops out near the equator at the Galapagos",
+          "Nearly all penguins live in the Southern Hemisphere (only the Galapagos penguin crosses the equator)",
+          "Their range tops out at the equator at the Galapagos",
           "Polar bears live only in the Arctic, so the two never meet in the wild"
         ]
       }
@@ -24810,7 +24810,7 @@
     "subject": "HEALTH & THE BODY",
     "category": "Health & the Body",
     "subcategory": "Sleep & Mind",
-    "title": "You Can't Bank Sleep",
+    "title": "You Can't Fully Catch Up on Sleep",
     "blurb": "Weekend lie-ins help a little. They don't erase a week of short nights.",
     "minutes": 4,
     "steps": [
@@ -24861,8 +24861,8 @@
         "type": "teach",
         "tag": "DRAWING",
         "phase": "IDEA 02",
-        "title": "Banking ahead doesn't work",
-        "body": "If catching up is limited, sleeping extra in advance to store a reserve works even less. You cannot stockpile sleep the way you save money. Sleeping in heavily on weekends also shifts your body clock later, so Sunday night you struggle to fall asleep and start the new week already behind. The fix is consistency, not big swings.",
+        "title": "Banking ahead helps only a little",
+        "body": "What about sleeping extra in advance? Banking sleep before a known crunch does help a little: in studies, people who extended their sleep beforehand stayed sharper through later short nights. But the buffer is small, and you cannot stockpile an unlimited reserve. Leaning on big weekend lie-ins also backfires, because heavy weekend sleep shifts your body clock later, so Sunday night you struggle to fall asleep and start the new week already behind. The fix is consistency, not big swings.",
         "diagram": null,
         "reveal": null
       },
@@ -24897,7 +24897,7 @@
         "title": "Pay nightly, not weekly.",
         "recap": [
           "Recovery sleep is deeper but only partly restores you",
-          "You can't stockpile sleep ahead of time",
+          "Banking ahead helps only a little; you can't stockpile a big reserve",
           "Big weekend swings shift your clock and start the week behind"
         ]
       }
